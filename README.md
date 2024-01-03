@@ -1,16 +1,16 @@
 # Taxi-Fare-Prediction
-A Kaggle competition which focuses on predicting taxi fares based on several features using machine learning models
+This project is part of a Kaggle competition that aims to predict taxi fares using various features and machine learning models.
 
 # Overview
-The goal of this project is to predict taxi fares accurately by leveraging machine learning algorithms. It involves the exploration of taxi trip data to identify patterns and features that significantly impact fare amounts.
+The objective of this project is to use machine learning techniques to accurately predict taxi fares. This involves analyzing taxi trip data to discover patterns and significant features that influence fare prices.
 
 # Dataset
-* **Train Dataset**: Contains historical data of taxi trips, including fare amounts.
-* **Test Dataset**: A dataset used for testing trained machine learning models.
-* **Sample Dataset**: Provides a template for submitting predictions of fare amounts.
+* **Train Dataset**: Historical data of taxi trips, including fare amounts.
+* **Test Dataset**: This dataset is used to evaluate the performance of trained machine learning models.
+* **Sample Dataset**: Offers a format for submitting fare predictions.
 
-# Tech Stack
-* **Python**: Programming language used for data processing, analysis, and modeling.
+# Technology Used
+* **Python**: The programming language employed for data processing, analysis, and model development.
 * **Pandas**: For data manipulation and analysis.
 * **Scikit-learn**: For building and evaluating machine learning models.
 * **XGBoost, LightGBM, Random Forest**: Implemented machine learning algorithms.
